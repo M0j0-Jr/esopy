@@ -93,8 +93,3 @@ N      — bbcd
 m      — bbda
 M      — bbdb
 space— bbdc 
-
-
-
-
-adac acdb addd adab cccc adab acdb addd adab cccc aaac cccc aada cccc aabc
