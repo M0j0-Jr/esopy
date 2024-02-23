@@ -10,3 +10,5 @@ import dontEdit
 # and then main.py will run the decoded isopy script in dontEdit.py. 
 
 # if you want to find a character string for a specific letter, refer to glossary.txt.
+
+#also, make sure to put a period between each character string.
